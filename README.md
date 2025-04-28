@@ -2,9 +2,12 @@
 Custom made 7-segment display using NeoPixel LEDs on breadboard with a 3D printed diffuser, driven by Arduino UNO
 
 
-**YouTube video: XXX**
+**YouTube video: https://youtu.be/9JRgl6mOAfM**
 
-**WOKWI sketch: XXX**
+**WOKWI sketch: https://wokwi.com/projects/428377537624066049**
+
+![THUMB_giiker_7segment_display](https://github.com/user-attachments/assets/86390ec2-8211-4e64-96da-9264baaeac50)
+
 
 
 Links from the video:
